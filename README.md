@@ -7,7 +7,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k0patych1&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/k0patych1/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=k0patych1)  
 
